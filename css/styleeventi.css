@@ -1,0 +1,129 @@
+#homeimg {
+    height: 350px;
+    padding: 10px 10px 10px 10px;
+}
+ul section {
+    text-align: left;
+}
+ul {
+    text-align: right;
+}
+.bluelink {
+    margin-inline: 8px;
+    font-size: larger;
+    color: aliceblue;
+}
+nav ul li {
+    display:inline-block;
+}
+header {
+    background-color: black;
+    padding: 5%;
+    height: 400px;  
+}
+body{
+    text-align: center;
+}
+body {
+    background:linear-gradient( white, rgb(156, 133, 133),rgb(236, 211, 166),rgb(166, 131, 131));
+}
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 60px;
+    margin-bottom: 70px;
+    color: wheat;
+}
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-bottom: 30px;
+}
+.sezione {
+    color: rgb(74, 0, 0);
+    background: radial-gradient(white,rgb(255, 169, 9)) ;
+    border: 1px solid #333;
+    padding: 4px;
+    border-radius: 20px 20px 20px 20px;
+    margin: 20px 20px 20px 20px;
+    height: auto;  
+}
+.sezione p {
+    text-align: right;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    line-height: 25px;
+    padding-right: 30px;
+}
+.sez2 {
+    color: white;
+    background: radial-gradient(rgb(31, 2, 2), rgb(197, 166, 166)) ;
+    border: 1px solid #333;
+    padding: 4px;
+    border-radius: 20px 20px 20px 20px;
+    margin: 20px 20px 20px 20px;
+    height: 250px;  
+    height: auto;
+}
+.sez2 p {
+    text-align: right;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    line-height: 25px;
+    padding-right: 30px;
+}
+.sez3 {
+    color: white;
+    background: radial-gradient(rgb(140, 93, 0), rgb(197, 166, 166)) ;
+    border: 1px solid #333;
+    padding: 4px;
+    border-radius: 20px 20px 20px 20px;
+    margin: 20px 20px 20px 20px;
+    height: auto;
+}
+.sez3 p {
+    text-align: right;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    line-height: 25px;
+    padding-right: 30px;
+}
+.active {
+    color: black;
+    background-color: #ffdd78;
+    border-radius: 3px 3px 3px 3px;
+}
+.nounderline {
+    text-decoration: none;
+    padding: 10px 10px 10px 10px;
+
+}
+footer img {
+    height: 100px;
+}
+#homeimg3 {
+    margin-left: 30px;
+    height: 150px;
+}
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.imginst {
+    height: 30px;
+}
+.normal-text{
+    color: white;
+}
+footer {
+    padding: 5px;
+    background-color: black;
+    height: 150px;
+}
+footer p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: aliceblue;
+}
+footer ul{
+    text-align: center;
+}

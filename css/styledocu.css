@@ -1,0 +1,42 @@
+#homeimg {
+    height: 350px;
+    padding: 10px 10px 10px 10px;
+}
+ul section {
+    text-align: left;
+}
+ul {
+    text-align: right;
+}
+.bluelink {
+    margin-inline: 8px;
+    font-size: larger;
+    color: aliceblue;
+}
+nav ul li {
+    display:inline-block;
+}
+header {
+    background-color: black;
+    padding: 5%;
+    height: 400px;  
+}
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 20px;
+    background: radial-gradient(white,rgb(213, 204, 186)) ;
+    padding: 30px;
+}
+#Struttura {
+    height: 300px;
+}
+#Layout {
+    height: 300px;
+}
+.sezione {
+    background: rgb(255, 241, 210);
+    padding: 50px;
+    line-height: 25px;
+}
+
